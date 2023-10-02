@@ -1,0 +1,108 @@
+.container{
+    background: url(https://img.freepik.com/free-photo/high-angle-multiple-election-questionnaires_23-2148265537.jpg);
+
+}
+#title {
+    border-collapse: collapse;
+    
+    margin: 20px;
+    display: grid;
+    justify-content: center;
+    margin-bottom: 30px;
+    color: #57cb4a;
+   
+}
+#description{
+   color: brown;
+    margin: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#first-name-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#last-name-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+
+#gender-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#Food-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#Typeoffood{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#email-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#mobile-number{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#Address-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#inputCity{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#State-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+#pincode-label{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic bold;
+    color: blue;
+}
+
+
+#submit{ margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+.table-responsive{
+  font-style: italic;
+  
+
+}
+th{
+    color: #124e0b;
+}
+tr{
+    color: rgb(237, 90, 45);
+}
