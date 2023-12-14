@@ -17,6 +17,10 @@ The DOM Manipulation Survey Form is a simple yet interactive web form designed t
 
 [Click to Open](https://dapper-alpaca-0cb605.netlify.app/)
 
+## Screenshots
+![image](https://github.com/Suryaprakash-G26/Dommanipulationsurvey/assets/141228691/94e9d099-e747-410a-ae37-031ac4255798)
+
+
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
